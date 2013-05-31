@@ -1,0 +1,6 @@
+kick: false
+kick-message: You've been Kicked for Swearing!
+ban: false
+ban-message: You've been Banned for Swearing!
+announce-to-ops: true
+announce-to-server: false

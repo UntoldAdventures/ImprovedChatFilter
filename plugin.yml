@@ -1,0 +1,14 @@
+name: RedStoneChatFilter
+main: com.mc.redstonepvp.RedStoneChatFilter
+version: 0.1
+author: UntoldAdventures
+website: www.untoldadventures.com
+commands:
+   cf:
+     description: The Basic BowSpleef Command
+     usage: |
+           Usage:
+           /<command> add [word] - Add a word to the filter list
+           /<command> remove [word] - Remove a world from the filter list
+           /<command> list - Get a list of all listed swear Words
+           /<command> reload - Reload the config
