@@ -1,5 +1,5 @@
-name: RedStoneChatFilter
-main: com.mc.redstonepvp.RedStoneChatFilter
+name: ImprovedChatFilter
+main: com.untoldadventures.improvedchatfilter.ImprovedChatFilter
 version: 0.1
 author: UntoldAdventures
 website: www.untoldadventures.com
